@@ -44,9 +44,9 @@ By the end of the internship, this project will demonstrate a complete AI pipeli
 - ✅ Project initialized on GitHub
 - ✅ Dataset loaded and described
 - ✅ Missing values handled and features selected
-- ✅ Data normalized and encoded (if required)
-- ✅ Performed EDA with visualizations (e.g., histograms, pairplots)
-- ✅ Started model planning based on data type (ML or CNN)
+- ✅ Data normalized and encoded 
+- ✅ Performed EDA with visualizations 
+- ✅ Started model planning based on data type 
 
 ---
 
@@ -63,13 +63,6 @@ By the end of the internship, this project will demonstrate a complete AI pipeli
 - Identifying the right dataset for relevant tree species
 - Preprocessing adjustments due to data imbalance or noise
 
----
-
-### 📅 Next Week's Plan (Week 2)
-- Begin model selection and baseline training
-- Perform train-test split and cross-validation
-- Fine-tune model parameters
-- Continue mentorship sessions and integrate feedback
 
 ---
 
